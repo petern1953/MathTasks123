@@ -1,5 +1,5 @@
-// Írj egy függvényt, ami a paraméterként megadott tízes számrendszerbeli számot átkonvertálja
-// kettes, nyolcas, és tizenhatos számrendszerbe is! Ezeket az értékeket pedig egy objectbe adja vissza!
+// Írj egy függvényt, amely a paraméterként megadott tízes számrendszerbeli számot átkonvertálja
+// kettes, nyolcas és tizenhatos számrendszerbe! Ezeket az értékeket pedig egy objectben adja vissza!
 // A property-k neve legyen: binary, octal, hexa.
 
 'use strict';

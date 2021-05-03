@@ -1,4 +1,4 @@
-// Módosítsd úgy a függvényed, hogy paraméterként mind number, mind BigInt típusú adatokat is elfogadjon!
+// Módosítsd úgy a függvényed, hogy paraméterként mind number, mind BigInt típusú adatokat elfogadjon!
 // Amennyiben valamelyik paraméter BigInt, úgy a number-eket is automatikusan konvertálja BigInt-té!
 
 'use strict';
